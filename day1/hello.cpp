@@ -1,5 +1,6 @@
-#include <iostream>   // This is like Java's "import java.io.*"
-using namespace std;                  // It brings in input/output functionality (cin, cout)
+#include <iostream>  // This is like Java's "import java.io.*"
+#include<cmath> 
+using namespace std;     // It brings in input/output functionality (cin, cout)
 
 // In Java, everything lives inside a class.
 // In C++, you CAN have classes, but you don't NEED one.
